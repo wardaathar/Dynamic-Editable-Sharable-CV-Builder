@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    background: url(data:image/jpeg;base64,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);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+#container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.hidden {
+    display: none;
+}
+
+#resumePage {
+    margin-top: 20px;
+}
