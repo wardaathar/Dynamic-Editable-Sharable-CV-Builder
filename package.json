@@ -1,16 +1,17 @@
 {
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "tsc && node script.js",
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "html2pdf": "^0.0.11",
     "html2pdf.js": "^0.10.2"
-  },
-  "name": "resume-vuilder",
-  "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
