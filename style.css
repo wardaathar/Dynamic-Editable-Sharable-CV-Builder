@@ -53,5 +53,13 @@ button:hover {
 }
 
 #resumePage {
-    margin-top: 5px;
+    margin-top: 3;
+}
+#resumePicture {
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+    object-fit: cover; 
+    border: 3px solid #ddd; 
+    margin-bottom: 20px; 
 }
